@@ -56,6 +56,8 @@ Random computer choice with result display.
 Usage
 Choose Rock, Paper, or Scissors.
 View the computer’s choice and the game result.
+
+
 5. Contact Book 📇
 Description: A contact management system to add, view, and delete contacts.
 
@@ -104,5 +106,7 @@ Create your feature branch (git checkout -b feature/NewFeature).
 Commit your changes (git commit -m 'Add NewFeature').
 Push to the branch (git push origin feature/NewFeature).
 Open a pull request.
+
+
 License 📄 
 This project is licensed under the MIT License.
